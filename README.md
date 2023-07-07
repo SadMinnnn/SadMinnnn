@@ -6,9 +6,9 @@
 
 <h2> / about me /</h2>
   
-- ⭐ currently working on **backend development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student**, who has just started her internship
+- 🖇️ currently working on **backend development**
+- 🎧 mostly working on **private repositories**
+- 🥷 a **student**, who has just started her internship
   
 <h2> / current skills / </h2>
   
