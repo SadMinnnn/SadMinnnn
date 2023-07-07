@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/ejzyf1Q.png"> </p>
+<p align = center ><img src="https://i.imgur.com/l7ZMQRS.png"> </p>
 
 <div>
 
@@ -14,11 +14,11 @@
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "jv" />
+  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "jv" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-   <img src = "https://raw.githubusercontent.com/hugovk/python-logos/main/img/PyCon%20Korea.png" alt = "py" />
+   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "py" />
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt = "lv" />
